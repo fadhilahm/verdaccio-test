@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Repo to test locally deployed npm registry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fadhilahm",
+  "license": "ISC",
+  "dependencies": {
+    "hello-happy-world-package": "^1.0.2"
+  }
+}
